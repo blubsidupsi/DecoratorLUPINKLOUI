@@ -1,0 +1,2 @@
+# DecoratorLUPINKLOUI
+Der bessere Clone
